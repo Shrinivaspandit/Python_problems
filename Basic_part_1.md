@@ -1,5 +1,5 @@
 # Python_problems
-for the solving purpose i have listed the problems on python
+
 '''
 ##basic question set_1
 #1. Write a Python program to print the following string in a specific format
